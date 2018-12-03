@@ -1,5 +1,5 @@
 class UsersController < ApplicationController
-  before_action :set_user, only: [:edit, :update, :show]
+  before_action :set_user, only: [:edit, :update, :show, :destroy]
   before_action :require_same_user, only: [:edit, :update, :destroy]
   before_action :require_admin, only: [:destroy]
 
@@ -26,7 +26,7 @@ class UsersController < ApplicationController
 
   end
 
-  def updat
+  def update
     if @user.update(user_params)
       flash[:success] = "Your account was updated successfully"
       redirect_to articles_path
@@ -40,10 +40,10 @@ class UsersController < ApplicationController
   end
 
   def destroy
-    @user = User.find(params[:id])
+    #@user = User.find(params[:id])
     @user.destroy
     flash[:danger] = "User all articles created by user have been deleted"
-    redirect_to user_path
+    redirect_to users_path
   end
 
   private
