@@ -6029,7 +6029,7 @@ tbody.collapse.in {
 /* line 397, /home/patryk/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-default {
   background-color: #0800ff;
-  border-color: #0700de;
+  border-color: #87cc3a;
 }
 /* line 401, /home/patryk/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-default .navbar-brand {
@@ -6056,7 +6056,7 @@ tbody.collapse.in {
 /* line 425, /home/patryk/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
   color: #555;
-  background-color: #0700de;
+  background-color: #87cc3a;
 }
 /* line 433, /home/patryk/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-default .navbar-nav > .disabled > a, .navbar-default .navbar-nav > .disabled > a:hover, .navbar-default .navbar-nav > .disabled > a:focus {
@@ -6078,11 +6078,11 @@ tbody.collapse.in {
 /* line 453, /home/patryk/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
-  border-color: #0700de;
+  border-color: #87cc3a;
 }
 /* line 462, /home/patryk/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
-  background-color: #0700de;
+  background-color: #87cc3a;
   color: #555;
 }
 @media (max-width: 767px) {
@@ -6098,7 +6098,7 @@ tbody.collapse.in {
   /* line 482, /home/patryk/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #555;
-    background-color: #0700de;
+    background-color: #87cc3a;
   }
   /* line 490, /home/patryk/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a, .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:focus {
